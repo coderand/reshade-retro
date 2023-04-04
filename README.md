@@ -1,14 +1,14 @@
 C64 Visual ReShade Simulator
-Created by Dmitry Andreev - and'2023
 ====================================
+Created by Dmitry Andreev - and'2023
 
 - Simulated visual appearance of C64 multicolor mode with 2:1 pixel aspect
 - Distinct C64 palette
 - Various dithering modes
 - Scanline and partial CRT simulation
 
-- Recommended resolution is 1080p give or take for optimal effect
-- Recommended to disable in-game **Film Grain** effect if present
+Recommended resolution is 1080p give or take for optimal effect<br>
+Recommended to disable in-game **Film Grain** effect if present
 
 Installation
 ------------
@@ -22,7 +22,7 @@ e.g. *"F:\SteamLibrary\steamapps\common\The Last of Us Part I"*
 Examples
 --------
 
-![alt text](https://github.com/coderand/reshade-retro/tree/main/screenshots/tlou-i_01.jpg "01")
-![alt text](https://github.com/coderand/reshade-retro/blob/main/screenshots/tlou-i_02.jpg "02")
-![alt text](https://github.com/coderand/reshade-retro/tree/main/screenshots/tlou-i_03.jpg "03")
-![alt text](https://github.com/coderand/reshade-retro/tree/main/screenshots/tlou-i_04.jpg "04")
+![alt text](https://github.com/coderand/reshade-retro/blob/main/screenshots/tlou-i_01s.jpg "01")
+![alt text](https://github.com/coderand/reshade-retro/blob/main/screenshots/tlou-i_02s.jpg "02")
+![alt text](https://github.com/coderand/reshade-retro/blob/main/screenshots/tlou-i_03s.jpg "03")
+![alt text](https://github.com/coderand/reshade-retro/blob/main/screenshots/tlou-i_04s.jpg "04")
